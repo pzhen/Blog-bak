@@ -1,3 +1,3 @@
-# Blog-markdown-bak
+# Blog-bak
 
-博客 markdown 文件备份
+博客 markdown，theme 备份

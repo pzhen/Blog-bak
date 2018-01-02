@@ -1,0 +1,7 @@
+{
+  "src_dir":"/Users/zhen/www-root/new_blog/source",
+  "skip_path_prefixes":"_drafts/,_posts/,about/,links/,tags/,robots.txt,story/,categories/",
+  "bucket":"myblog",
+  "overwrite":true,
+  "rescan_local":true
+}

@@ -26,4 +26,4 @@ categories:
 
 原主题留念：
 
-![留念](http://static.golangtab.com/images/2017-10/火狐截图_2017-10-19T02-23-23.767Z.png)
+![留念](http://static.golangtab.com/images/2017-10/2017-10-19T02-23-23.767Z.png)
